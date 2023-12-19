@@ -6,4 +6,3 @@
 - 💬 Ask me about optimization, machine learning. 
 - 📫 How to reach me: f@bianp.net
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm not fun
