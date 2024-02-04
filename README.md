@@ -6,3 +6,5 @@
 - 💬 Ask me about optimization, machine learning. 
 - 📫 How to reach me: f@bianp.net .
 - 😄 Pronouns: he/him.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabianp&theme=default)
